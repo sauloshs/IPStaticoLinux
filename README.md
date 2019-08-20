@@ -1,0 +1,2 @@
+# IPStaticoLinux
+Inicio 
